@@ -7,7 +7,7 @@ paper: https://arxiv.org/abs/1703.03400<br>
 code:https://github.com/cbfinn/maml
 
 
-2.10-2.18 GAN
+2.10-2.21 GAN
 -----
 ## 1.Generative Adversarial Networks
 paper:https://arxiv.org/abs/1406.2661
@@ -23,3 +23,8 @@ code:https://github.com/carpedm20/DCGAN-tensorflow
 ## 4.Image-to-Image Translation with Conditional Adversarial Networks
 paper:https://arxiv.org/pdf/1611.07004v2.pdf<br>
 code:https://github.com/affinelayer/pix2pix-tensorflow
+
+2.22-2.26 人脸识别
+----
+
+2.27-2.28 爬虫
