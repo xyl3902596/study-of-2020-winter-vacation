@@ -26,6 +26,13 @@ code:https://github.com/affinelayer/pix2pix-tensorflow
 
 2.22-2.26 人脸识别
 ----
+## 1.Deepface: Closing the gap to human-level performance in face verification
+
+## 2.Learning deep face representation
+paper:https://arxiv.org/pdf/1403.2802.pdf<br>
+
+## 3.https://arxiv.org/pdf/1503.03832.pdf
+paper:https://arxiv.org/pdf/1503.03832.pdf<br>
 
 2.27-2.28 爬虫
 ----
