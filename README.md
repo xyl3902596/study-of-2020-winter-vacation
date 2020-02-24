@@ -27,6 +27,7 @@ code:https://github.com/affinelayer/pix2pix-tensorflow
 2.24-2.26 人脸识别
 ----
 ## 1.Deepface: Closing the gap to human-level performance in face verification
+paper:https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf
 
 ## 2.Learning deep face representation
 paper:https://arxiv.org/pdf/1403.2802.pdf<br>
