@@ -7,7 +7,7 @@ paper: https://arxiv.org/abs/1703.03400<br>
 code:https://github.com/cbfinn/maml
 
 
-2.10-2.21 GAN
+2.10-2.23 GAN
 -----
 ## 1.Generative Adversarial Networks
 paper:https://arxiv.org/abs/1406.2661
@@ -24,14 +24,14 @@ code:https://github.com/carpedm20/DCGAN-tensorflow
 paper:https://arxiv.org/pdf/1611.07004v2.pdf<br>
 code:https://github.com/affinelayer/pix2pix-tensorflow
 
-2.22-2.26 人脸识别
+2.24-2.26 人脸识别
 ----
 ## 1.Deepface: Closing the gap to human-level performance in face verification
 
 ## 2.Learning deep face representation
 paper:https://arxiv.org/pdf/1403.2802.pdf<br>
 
-## 3.https://arxiv.org/pdf/1503.03832.pdf
+## 3.Facenet: A unified embedding for face recognition and clustering
 paper:https://arxiv.org/pdf/1503.03832.pdf<br>
 
 2.27-2.28 爬虫
