@@ -24,7 +24,7 @@ code:https://github.com/carpedm20/DCGAN-tensorflow
 paper:https://arxiv.org/pdf/1611.07004v2.pdf<br>
 code:https://github.com/affinelayer/pix2pix-tensorflow
 
-2.24-2.26 人脸识别
+2.24-3.2 人脸识别
 ----
 ## 1.Deepface: Closing the gap to human-level performance in face verification
 paper:https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf
@@ -34,6 +34,6 @@ paper:https://arxiv.org/pdf/1403.2802.pdf<br>
 
 ## 3.Facenet: A unified embedding for face recognition and clustering
 paper:https://arxiv.org/pdf/1503.03832.pdf<br>
-
-2.27-2.28 爬虫
+code:https://github.com/davidsandberg/facenet<br>
+3.3-3.4 爬虫
 ----
