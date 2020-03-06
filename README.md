@@ -36,4 +36,8 @@ paper:https://arxiv.org/pdf/1403.2802.pdf<br>
 paper:https://arxiv.org/pdf/1503.03832.pdf<br>
 code:https://github.com/davidsandberg/facenet<br>
 3.3-3.4 爬虫
-----
+---
+code:https://github.com/xyl3902596/python-spyder<br>
+3.5-3.6 git的用法
+---
+link:https://blog.csdn.net/qq_41556318/article/list/4<br>
