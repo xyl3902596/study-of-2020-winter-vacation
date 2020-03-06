@@ -2,8 +2,8 @@
 
 2.1-2.9 小样本学习
 ----
-    MAML：Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks<br>
-    paper: https://arxiv.org/abs/1703.03400<br>
+    MAML：Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+    paper: https://arxiv.org/abs/1703.03400
     code:https://github.com/cbfinn/maml
 
 
@@ -13,15 +13,15 @@
     paper:https://arxiv.org/abs/1406.2661
 
 ## 2.Conditional Generative Adversarial Net
-    paper:https://arxiv.org/pdf/1411.1784.pdf<br>
+    paper:https://arxiv.org/pdf/1411.1784.pdf
     code:https://github.com/znxlwm/tensorflow-MNIST-cGAN-cDCGAN
 
 ## 3.Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks 
-    paper:https://arxiv.org/pdf/1511.06434.pdf<br>
+    paper:https://arxiv.org/pdf/1511.06434.pdf
     code:https://github.com/carpedm20/DCGAN-tensorflow
 
 ## 4.Image-to-Image Translation with Conditional Adversarial Networks
-    paper:https://arxiv.org/pdf/1611.07004v2.pdf<br>
+    paper:https://arxiv.org/pdf/1611.07004v2.pdf
     code:https://github.com/affinelayer/pix2pix-tensorflow
 
 2.24-3.2 人脸识别
@@ -30,14 +30,14 @@
     paper:https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf
 
 ## 2.Learning deep face representation
-    paper:https://arxiv.org/pdf/1403.2802.pdf<br>
+    paper:https://arxiv.org/pdf/1403.2802.pdf
 
 ## 3.Facenet: A unified embedding for face recognition and clustering
-    paper:https://arxiv.org/pdf/1503.03832.pdf<br>
-    code:https://github.com/davidsandberg/facenet<br>
+    paper:https://arxiv.org/pdf/1503.03832.pdf
+    code:https://github.com/davidsandberg/facenet
 3.3-3.4 爬虫
 ---
-    code:https://github.com/xyl3902596/python-spyder<br>
+    code:https://github.com/xyl3902596/python-spyder
 3.5-3.6 git的用法
 ---
-    link:https://blog.csdn.net/qq_41556318/article/list/4<br>
+    link:https://blog.csdn.net/qq_41556318/article/list/4
