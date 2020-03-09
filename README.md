@@ -41,3 +41,7 @@
 3.5-3.6 git的用法
 ---
     link:https://blog.csdn.net/qq_41556318/article/list/4
+3.7-3.8 使用git上传代码
+---
+3.9-3.10 人脸跟踪
+----
