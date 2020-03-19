@@ -43,5 +43,11 @@
     link:https://blog.csdn.net/qq_41556318/article/list/4
 3.7-3.8 使用git上传代码
 ---
-3.9-3.10 人脸跟踪
+3.9-3.18 人脸跟踪
 ----
+    paper:Fully-Convolutional Siamese Networks for Object Tracking
+    code:https://github.com/bilylee/SiamFC-TensorFlow
+3.19-3.21 目标检测
+----
+    paper：CSPNet: A New Backbone that can Enhance Learning Capability of CNN
+    code:https://github.com/WongKinYiu/CrossStagePartialNetworks
