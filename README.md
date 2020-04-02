@@ -49,5 +49,8 @@
     code:https://github.com/bilylee/SiamFC-TensorFlow
 3.19-3.21 目标检测
 ----
-    paper：CSPNet: A New Backbone that can Enhance Learning Capability of CNN
-    code:https://github.com/WongKinYiu/CrossStagePartialNetworks
+    paper：BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs
+    code:https://github.com/tkat0/PyTorch_BlazeFace
+4.2-  pytorch
+----
+    link: http://pytorch123.com/
