@@ -58,3 +58,4 @@
 ----
     code:https://github.com/tkat0/PyTorch_BlazeFace
     
+Study next: anchor-free, Yolo for mobile devices, docker, 场景理解
