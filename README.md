@@ -51,6 +51,10 @@
 ----
     paper：BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs
     code:https://github.com/tkat0/PyTorch_BlazeFace
-4.2-  pytorch
+4.2  pytorch
 ----
     link: http://pytorch123.com/
+4.3  BlazeFace_pytorch
+----
+    code:https://github.com/tkat0/PyTorch_BlazeFace
+    
