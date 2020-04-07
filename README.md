@@ -54,8 +54,12 @@
 4.2  pytorch
 ----
     link: http://pytorch123.com/
-4.3  BlazeFace_pytorch
+4.3-4.4  BlazeFace_pytorch
 ----
     code:https://github.com/tkat0/PyTorch_BlazeFace
+4.5-4.7 docker
+----
+    link:https://github.com/xyl3902596/docker-Python-/blob/master/README.md
+4.8-电脑换屏幕
     
-Study next: anchor-free, Yolo for mobile devices, docker, 场景理解
+Study next: anchor-free, Yolo for mobile devices, 场景理解
