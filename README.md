@@ -60,7 +60,21 @@
 4.5-4.7 docker
 ----
     link:https://github.com/xyl3902596/docker-Python-/blob/master/README.md
-4.8-电脑换屏幕
+4.8-4.10电脑换屏幕
 -----
-    
+4.11-4.13 搭VPN
+----
+4.14博客园搭梯教程
+----
+    link：https://www.cnblogs.com/xyl1234/p/12700305.html
+4.15简书Docker，Git教程
+----
+    Docker link：https://www.jianshu.com/p/87a3f9840672
+    Git Link:https://www.jianshu.com/p/585d18e9d864
+4.16 4000档手机评测
+----
+4.17 相机原理
+----
+    link：https://www.jianshu.com/p/0391856841d4
+
 Study next: anchor-free, Yolo for mobile devices, 场景理解
