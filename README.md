@@ -77,6 +77,10 @@
 ----
 4.17 相机原理
 ----
-    link：https://www.jianshu.com/p/0391856841d4
-
+    link：https://www.jianshu.com/p/0391856841d44.18
+4.18-4.19 Gaussion yolov3
+----
+    paper:https://arxiv.org/abs/1904.04620?context=cs
+    code:https://github.com/jwchoi384/Gaussian_YOLOv3
+    
 Study next: anchor-free, Yolo for mobile devices, 场景理解
