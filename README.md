@@ -82,7 +82,12 @@
 ----
     paper:https://arxiv.org/abs/1904.04620?context=cs
     code:https://github.com/jwchoi384/Gaussian_YOLOv3
-4.20-  C++ 学习
+4.20-5.20 21天学通c++
 ----
-    
+ 
+5.21-5.28 c++ yolov4
+----
+    Link：https://github.com/xyl3902596/Yolov4detect
+5.29-6.2 理解Yolov4
+----
 Study next: anchor-free,场景理解
